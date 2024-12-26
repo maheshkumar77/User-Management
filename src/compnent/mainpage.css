@@ -1,0 +1,30 @@
+.xx{
+    height: 40vh;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    border: 2px solid rgb(184, 178, 178);
+    backdrop-filter: blur(5px);
+    background: wheat;
+    margin-left: 70px;
+    border-radius: 15px;
+}
+.xxx{
+    height: 90%;
+    width: 50%;
+    align-items: flex-start;
+}
+.xxx img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.xxxx{
+   
+    margin-bottom: 10px;
+  
+}
