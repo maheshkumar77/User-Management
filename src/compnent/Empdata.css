@@ -128,3 +128,10 @@
       rotate: 360deg;
     }
   }
+  .page{
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+  }

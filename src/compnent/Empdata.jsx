@@ -82,6 +82,9 @@ const Empdata = () => {
         >
           Previous
         </button>
+        <div className="page">
+          <p>{page}</p>
+        </div>
         <button
           onClick={nextPage}
           className="outerbutton1"
